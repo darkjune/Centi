@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="39983932">
+    <data-source source="LOCAL" name="PostgreSQL - blog@localhost" uuid="255da4d2-072b-4438-9987-19816ca5060e">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/blog</jdbc-url>
+      <user-name>postgres</user-name>
+      <user-password>dfebdfdcdfc5dfc9dfcfdfc4dfdedf9bdf98df99</user-password>
+      <schema-pattern>blog.public</schema-pattern>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="hibernate.cfg.xml" uuid="5d59fd3c-faec-4748-9e15-860de3186c4c">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/hibernatedb</jdbc-url>
+      <user-name>postgres</user-name>
+      <user-password>dfdadfc5dfd9dfdedfcddfd8dfcfdfd9</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
